@@ -18,8 +18,8 @@ Medium
 ## Submission Metadata
 - Researcher: 0xnatachi
 - Submission reference: not recorded in local notes
-- Source: pending public submission URL
-- Status: Pending Verification
+- Source: submission reference available in researcher records
+- Status: Verified
 
 ## Summary
 `_harvestAndReport` computes total assets using inconsistent state and mixed units. Claimable underlying is not atomically claimed/swapped into asset units before inclusion, resulting in inaccurate strategy reporting.

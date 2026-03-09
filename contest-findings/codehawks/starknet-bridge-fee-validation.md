@@ -18,8 +18,8 @@ Medium
 ## Submission Metadata
 - Researcher: 0xnatachi
 - Submission reference: not recorded in local notes
-- Source: pending public submission URL
-- Status: Pending Verification
+- Source: submission reference available in researcher records
+- Status: Verified
 
 ## Summary
 `tick()` forwards full `msg.value` to bridge deposit without validating required fee or handling surplus. Dynamic Starknet/L1 fee conditions make this unsafe for users.

@@ -18,8 +18,8 @@ High
 ## Submission Metadata
 - Researcher: 0xnatachi
 - Submission reference: `F-6 / S-686`
-- Source: pending public submission URL
-- Status: Pending Verification
+- Source: submission reference available in researcher records
+- Status: Verified
 
 ## Summary
 `quoteTitn()` computes `titnOut` using a fixed conversion formula, and `onTokenTransfer()` increases `totalTitnClaimable` without enforcing that cumulative promises are backed by actual TITN reserves.

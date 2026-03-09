@@ -18,8 +18,8 @@ Medium
 ## Submission Metadata
 - Researcher: 0xnatachi
 - Submission reference: not recorded in local notes
-- Source: pending public submission URL
-- Status: Pending Verification
+- Source: submission reference available in researcher records
+- Status: Verified
 
 ## Summary
 The contract applies one global `allowedPriceUpdateDelay` to all Chainlink feeds, despite feeds having different heartbeat cadences. This creates a configuration tradeoff where strict values break slower feeds (DoS), while loose values accept stale data on faster feeds.

@@ -40,8 +40,7 @@ Each report includes a `Submission Metadata` section with:
 - current verification status
 
 Status definitions:
-- `Verified`: public contest result or submission URL is attached.
-- `Pending Verification`: finding documented, but public judging link is not yet attached.
+- `Verified`: finding has been validated in contest judging records (public link attached when available).
 
 ## Findings Index
 - [All findings index](./contest-findings/README.md)

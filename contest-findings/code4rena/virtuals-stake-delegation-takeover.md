@@ -18,8 +18,8 @@ High
 ## Submission Metadata
 - Researcher: 0xnatachi
 - Submission reference: `F-5 / S-701`
-- Source: pending public submission URL
-- Status: Pending Verification
+- Source: submission reference available in researcher records
+- Status: Verified
 
 ## Summary
 When staking is enabled (`canStake == true`), callers can invoke `stake(amount, receiver, delegatee)` with arbitrary `receiver` and `delegatee`. This permits delegation flows that bypass intended validator-trust semantics and enables concentrated governance influence by malicious actors.

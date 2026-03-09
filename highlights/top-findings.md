@@ -5,7 +5,7 @@
 **Platform:** Code4rena  
 **Contest:** Virtuals Protocol  
 **Severity:** High  
-**Status:** Pending Verification
+**Status:** Verified
 
 ### Summary
 Staking allowed arbitrary `receiver` and `delegatee`, enabling governance power redirection outside intended validator trust assumptions.
@@ -23,7 +23,7 @@ Attackers can route voting power to malicious validators or controlled addresses
 **Platform:** CodeHawks  
 **Contest:** RAAC Core Contracts  
 **Severity:** High  
-**Status:** Pending Verification
+**Status:** Verified
 
 ### Summary
 Historical rewards were distributed using current veRAAC voting power, allowing post-distribution lockers to capture prior rewards.
@@ -59,7 +59,7 @@ Owner fee collection reverts for affected positions, causing persistent revenue 
 **Platform:** Code4rena  
 **Contest:** Chainlink Data Consumer Integration  
 **Severity:** Medium  
-**Status:** Pending Verification
+**Status:** Verified
 
 ### Summary
 A single global staleness threshold was applied to feeds with different heartbeat intervals.

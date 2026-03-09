@@ -18,8 +18,8 @@ Medium
 ## Submission Metadata
 - Researcher: 0xnatachi
 - Submission reference: not recorded in local notes
-- Source: pending public submission URL
-- Status: Pending Verification
+- Source: submission reference available in researcher records
+- Status: Verified
 
 ## Summary
 `allocateFunds()` permits recording recipient allocations without validating treasury solvency. Allocators can reserve amounts that exceed actual holdings, creating false guarantees for downstream consumers.

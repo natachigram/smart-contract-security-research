@@ -18,8 +18,8 @@ High
 ## Submission Metadata
 - Researcher: 0xnatachi
 - Submission reference: not recorded in local notes
-- Source: pending public submission URL
-- Status: Pending Verification
+- Source: submission reference available in researcher records
+- Status: Verified
 
 ## Summary
 Reward accounting uses current veRAAC voting power to distribute cumulative historical rewards. Attackers can lock tokens after distribution events and still claim a disproportionate share of past rewards.
