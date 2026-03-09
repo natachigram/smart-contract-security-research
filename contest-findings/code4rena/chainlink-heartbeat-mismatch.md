@@ -16,7 +16,7 @@ ChainLinkDataConsumer Integration
 Medium
 
 ## Submission Metadata
-- Researcher: 0xnatachi
+- Researcher: Natachi
 - Submission reference: not recorded in local notes
 - Source: submission reference available in researcher records
 - Status: Verified

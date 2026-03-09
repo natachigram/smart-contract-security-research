@@ -2,7 +2,7 @@
 
 Security research and vulnerability reports from competitive smart contract audits.
 
-**Researcher:** 0xnatachi (Natachi)
+**Researcher:** Natachi
 
 ## Snapshot
 

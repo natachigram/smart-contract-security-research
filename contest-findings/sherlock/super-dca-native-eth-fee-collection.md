@@ -16,7 +16,7 @@ Super DCA Liquidity Network
 High
 
 ## Submission Metadata
-- Researcher: 0xnatachi
+- Researcher: Natachi
 - Submission reference: `#280`
 - Submitted on: 2025-10-01 19:17:55 (GMT+1)
 - Source: `https://github.com/sherlock-audit/2025-09-super-dca/issues/280`

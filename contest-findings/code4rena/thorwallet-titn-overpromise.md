@@ -16,7 +16,7 @@ THORWallet (MergeTgt)
 High
 
 ## Submission Metadata
-- Researcher: 0xnatachi
+- Researcher: Natachi
 - Submission reference: `F-6 / S-686`
 - Source: submission reference available in researcher records
 - Status: Verified

@@ -16,7 +16,7 @@ Mellow Flexible Vaults
 Medium
 
 ## Submission Metadata
-- Researcher: 0xnatachi
+- Researcher: Natachi
 - Submission reference: `#26`
 - Source: `https://github.com/sherlock-audit/2025-07-mellow-flexible-vaults/issues/26`
 - Status: Verified

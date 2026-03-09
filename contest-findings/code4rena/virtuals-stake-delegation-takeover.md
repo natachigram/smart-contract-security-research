@@ -16,7 +16,7 @@ Virtuals Protocol
 High
 
 ## Submission Metadata
-- Researcher: 0xnatachi
+- Researcher: Natachi
 - Submission reference: `F-5 / S-701`
 - Source: submission reference available in researcher records
 - Status: Verified
