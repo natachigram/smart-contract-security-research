@@ -58,7 +58,6 @@ Status definitions:
 
 ## Repository Meta
 - [License (MIT)](./LICENSE)
-- [Contributing Guide](./CONTRIBUTING.md)
 - [PoC Index and Usage](./poc/README.md)
 
 ## Repository Structure
