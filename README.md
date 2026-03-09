@@ -26,6 +26,14 @@ Security research and vulnerability reports from competitive smart contract audi
 - Code4rena
 - CodeHawks
 
+## GitHub Topics
+- `smart-contract-audit`
+- `defi-security`
+- `code4rena`
+- `sherlock`
+- `codehawks`
+- `security-research`
+
 ## Top Findings
 - [Governance manipulation via arbitrary delegation (High)](./highlights/top-findings.md)
 - [Reward inflation via post-distribution voting power (High)](./highlights/top-findings.md)
@@ -48,6 +56,11 @@ Status definitions:
 - [Code4rena findings](./contest-findings/code4rena/README.md)
 - [CodeHawks findings](./contest-findings/codehawks/README.md)
 
+## Repository Meta
+- [License (MIT)](./LICENSE)
+- [Contributing Guide](./CONTRIBUTING.md)
+- [PoC Index and Usage](./poc/README.md)
+
 ## Repository Structure
 
 `contest-findings/`  
@@ -64,3 +77,6 @@ DeFi security notes and recurring bug patterns.
 
 `poc/`  
 PoC references and exploit reproduction notes.
+
+`poc/foundry/` and `poc/hardhat/`  
+Executable-style test snippets for Foundry and Hardhat contest environments.
