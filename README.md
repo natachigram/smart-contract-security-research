@@ -11,8 +11,8 @@ Security research and vulnerability reports from competitive smart contract audi
 | Platforms | 3 |
 | Contests covered | 8 |
 | Published findings | 10 |
-| High severity | 3 |
-| Medium severity | 7 |
+| High severity | 4 |
+| Medium severity | 6 |
 
 ## Focus Areas
 - DeFi protocol accounting and invariant design
@@ -29,7 +29,7 @@ Security research and vulnerability reports from competitive smart contract audi
 ## Top Findings
 - [Governance manipulation via arbitrary delegation (High)](./highlights/top-findings.md)
 - [Reward inflation via post-distribution voting power (High)](./highlights/top-findings.md)
-- [Native ETH fee-collection failure in Uniswap V4 listing flow (Medium)](./highlights/top-findings.md)
+- [Native ETH fee-collection failure in Uniswap V4 listing flow (High)](./highlights/top-findings.md)
 - [Oracle heartbeat mismatch causing stale acceptance/DoS (Medium)](./highlights/top-findings.md)
 
 ## Verification Policy

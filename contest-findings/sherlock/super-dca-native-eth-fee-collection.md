@@ -13,7 +13,7 @@ Sherlock
 Super DCA Liquidity Network
 
 ## Severity
-Medium
+High
 
 ## Submission Metadata
 - Researcher: 0xnatachi

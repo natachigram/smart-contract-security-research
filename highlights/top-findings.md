@@ -40,7 +40,7 @@ Late entrants can claim rewards they did not economically earn, diluting legitim
 
 **Platform:** Sherlock  
 **Contest:** Super DCA Liquidity Network  
-**Severity:** Medium  
+**Severity:** High  
 **Status:** Verified
 
 ### Summary
